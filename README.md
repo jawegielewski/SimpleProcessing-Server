@@ -6,5 +6,5 @@ This project was created as a part of greater project and to learn by practice s
 It let me:
 
 - learn how to deploy simple web server (Heroku cloud platform),
-- learn how to connect client (Android) with server and do some processing at server in thanks to HTTP requests side and return some values to Android device as a response,
+- learn how to connect client (Android) with server and do some processing at server side in thanks to HTTP requests and return some values to Android device as a response,
 - push forward my project of Android game online.
