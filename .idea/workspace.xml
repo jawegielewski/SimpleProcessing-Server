@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fef7774-3866-4506-9237-4643ffecedce" name="Default" comment="" />
+    <list default="true" id="9fef7774-3866-4506-9237-4643ffecedce" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +32,7 @@
       <file leaf-file-name="MyServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MyServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-125">
+            <state relative-caret-position="-24">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,6 +58,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,12 +89,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -373,12 +379,12 @@
       <workItem from="1525474782467" duration="649000" />
       <workItem from="1525510507428" duration="436000" />
       <workItem from="1525512065153" duration="2068000" />
-      <workItem from="1525529793181" duration="6372000" />
+      <workItem from="1525529793181" duration="7088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10633000" />
+    <option name="totallyTimeSpent" value="11349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,7 +396,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -410,7 +416,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.328877" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.328877" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20951156" />
@@ -548,7 +554,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
+        <state relative-caret-position="-24">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
