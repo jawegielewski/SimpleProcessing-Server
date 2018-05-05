@@ -1,6 +1,6 @@
 # SimpleProcessing-Server
 
-SimpleProcessing-Server
+
 This project was created as a part of greater project and to learn by practice some technologies (Servlets, HTTP).
 
 It let me:
